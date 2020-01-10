@@ -3,6 +3,6 @@
 
 Libreries:
 
-keyboard
+keyboard;
 sounddevice
 
