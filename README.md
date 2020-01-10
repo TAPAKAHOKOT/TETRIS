@@ -1,1 +1,8 @@
 # TETRIS
+
+
+Libreries:
+
+keyboard
+sounddevice
+
